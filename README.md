@@ -1,5 +1,7 @@
 # bob-editor
 
+![image](./static/image.png)
+
 > An electron-vue project
 
 #### Build Setup
