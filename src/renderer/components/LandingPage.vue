@@ -25,6 +25,10 @@
     padding: 0;
   }
 
+  @font-face {
+    font-family: 'SFZimmerman';
+    src: url(../assets/SFZimmerman.ttf);
+  }
   body { font-family: 'SFZimmerman', sans-serif; }
 
   #wrapper {
