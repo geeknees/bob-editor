@@ -37,6 +37,7 @@ textarea, #editor div {
   vertical-align: top;
   box-sizing: border-box;
   padding: 0 20px;
+  line-height: 1.2em;
 }
 
 textarea {
