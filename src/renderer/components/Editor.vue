@@ -33,7 +33,7 @@ export default {
 textarea, #editor div {
   display: inline-block;
   width: 49%;
-  height: 80vh;
+  height: 95vh;
   vertical-align: top;
   box-sizing: border-box;
   padding: 0 20px;
@@ -45,12 +45,7 @@ textarea {
   outline: none;
   background-color: #f6f6f6;
   font-size: 14px;
-  font-family: 'Monaco', courier, monospace;
-  padding: 20px;
-}
-
-code {
-  color: #f66;
+  padding: 10px;
 }
 
 </style>
