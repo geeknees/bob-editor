@@ -57,6 +57,7 @@
   },
   "dependencies": {
     "axios": "^0.16.1",
+    "element-ui": "^2.3.9",
     "lodash": "^4.17.5",
     "marked": "^0.3.19",
     "vue": "^2.3.3",
